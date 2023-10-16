@@ -1,4 +1,4 @@
-# Urban Mobility Ontology TEST TEST2
+# Urban Mobility Ontology
 *Progetto del corso Data Semantics (Laurea magistrale Data Science)*
 
 <p align="center">
