@@ -15,9 +15,10 @@ L'ontologia di partenza risulta essere: [ontologie-iot-urbani](https://raw.githu
 
 *Keywords*: Ontology, Protégé, RDF, OWL, SPARQL, GEOSPARQL.
 
-*Link Visualizzazioni*: https://public.tableau.com/app/profile/lorenzo3645/viz/ProgettoBBC100Women/progettoBBC100Women
+[Presentazione](https://github.com/lorenzlorg/Data-Semantics-project/blob/main/presentazione%20Urban%20Ontology.pdf)
 
-[Presentazione](https://github.com/lorenzlorg/Data-Management-and-Visualization-project/blob/master/presentazione_data_managemnet_visualization.pdf)
+[Ontologia](https://github.com/lorenzlorg/Data-Semantics-project/blob/main/ontologia%20UrbanOntology.owl)
+
 
 ***
 
